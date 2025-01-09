@@ -13,7 +13,7 @@ export function Hero() {
           backgroundPosition: 'center',
         }}
       >
-        <div className="absolute inset-0 bg-black/70" />
+        <div className="absolute inset-0 bg-black/7m 0" />
       </div>
 
       {/* Content */}

@@ -32,7 +32,7 @@ import {
     },
     {
       icon: TreePine,
-      title: "Sustainable Building",
+      title: "Property Sales",
       description: "Eco-friendly solutions and green building practices"
     },
     {
